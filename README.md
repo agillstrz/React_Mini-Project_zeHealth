@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+### zeHealth
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+zeHealth adalah sebuah website penjualan obat yang menjual obat dengan penyakit yang sering dikeluhkan oleh banyak orang.
 
-## Available Scripts
+### Tools
 
-In the project directory, you can run:
+1. VISUAL STUDIO CODE.
+2. React JS.
+3. Tailwind CSS.
+4. GITHUB.
+5. HASURA,
 
-### `npm start`
+### Library
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. DAISY UI
+2. REACT ROUTER DOM
+3. MOMENT JS
+4. REACT-HELMET.
+5. FIREBASE.
+6. GRAPHQL.
+7. APOLLO CLIENT.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### UI ZEHEALTH
 
-### `npm test`
+**Home page**  
+<img src="https://firebasestorage.googleapis.com/v0/b/zehealth-7c28c.appspot.com/o/Mockup%201.png?alt=media&token=87b0fba8-d4ac-4ab4-a160-4e1daf240efb" width="600" height="500">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Detail Obat**  
+<img src="https://firebasestorage.googleapis.com/v0/b/zehealth-7c28c.appspot.com/o/Mockup%202.png?alt=media&token=862ce77a-8225-4549-a819-500aa466d1d7" width="600" height="500">
 
-### `npm run build`
+#### Link website zeHealth
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[zeHealth](https://zehealth-agillstrz.vercel.app/)
