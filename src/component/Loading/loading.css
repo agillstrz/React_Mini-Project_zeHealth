@@ -1,0 +1,30 @@
+/* Typing Class */
+.typing {
+  color: #283754;
+  overflow: hidden;
+  white-space: nowrap;
+  letter-spacing: 0.15em;
+  border-right: 0.15em solid #48c3d6;
+  animation: typing 1.3s steps(90) infinite, cursor-blink 0.9s infinite;
+}
+
+/* The typing effect for the text */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* The cursor  blinking effect */
+@keyframes cursor-blink {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #48c3d6;
+  }
+}

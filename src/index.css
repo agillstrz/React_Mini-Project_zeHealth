@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.borders {
+  @apply border border-black;
+}
+.content {
+  @apply px-16;
+}
+.poppins {
+  @apply font-Poppins;
+}
+.zbtn {
+  @apply bg-color2 my-5 hover:bg-color1 hover:text-color2 transition-all duration-300 active:scale-90 font-bold text-white py-3  px-7 rounded-full;
+}
+.btn-pesan {
+  @apply px-3 py-2 rounded-lg hover:bg-color1 transition duration-150 ease-linear hover:text-color2 bg-color2 text-white font-bold;
+}
+.errors {
+  @apply font-bold text-sm text-red-600 block;
+}
+.content-side {
+  @apply absolute flex justify-center right-0 left-72;
+}
